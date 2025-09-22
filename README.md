@@ -1,0 +1,1 @@
+Plaka tanima sistemi makine öğrenmesi kullanılarak geliştirilmiştir. Farklı açıda çekilmiş fotoğrafları taniyabiliyor ve FlaskApi ile backend frontend haberleşmesi sağlanmış, arayüz tasarımı gerçekleştirilmiştir
